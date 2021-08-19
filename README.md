@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/rajmhatre20/" target="blank"><img align="center" src="./logos/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" /></a>&nbsp; 
 <a href="https://www.codechef.com/users/rajmhatre20" target="blank"><img align="center" src="./logos/Codechef.png" alt="@rajmhatre20" height="30" width="30" /></a>&nbsp; 
-<a href="https://codeforces.com/profile/RajMhatre20" target="blank"><img align="center" src="./logos/codeforces.png" alt="RajMhatre20" height="30" width="30" /></a>&nbsp; 
+<a href="https://codeforces.com/profile/RajMhatre20" target="blank"><img align="center" src="./logos/Codeforces.png" alt="RajMhatre20" height="30" width="30" /></a>&nbsp; 
 </p>
 </p>
 
@@ -42,7 +42,7 @@
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
 
 
-<img src="./gifs/gear.gif" width="30px"> ***GitHub Analytics***
+<img src="./gifs/Gear.gif" width="30px"> ***GitHub Analytics***
 
 <p align="center">
 <a href="https://github.com/RajMhatre20">
