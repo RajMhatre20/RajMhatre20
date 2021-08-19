@@ -7,7 +7,7 @@
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/rajmhatre20/" target="blank"><img align="center" src="./logos/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" /></a>&nbsp; 
-<a href="https://www.codechef.com/users/rajmhatre20" target="blank"><img align="center" src="./logos/Codechef.png" alt="@rajmhatre20" height="30" width="30" /></a>&nbsp; 
+<a href="https://www.codechef.com/users/rajmhatre20" target="blank"><img align="center" src="./logos/Codechef.png" alt="rajmhatre20" height="30" width="30" /></a>&nbsp; 
 <a href="https://codeforces.com/profile/RajMhatre20" target="blank"><img align="center" src="./logos/Codeforces.png" alt="RajMhatre20" height="30" width="30" /></a>&nbsp; 
 </p>
 </p>
@@ -34,15 +34,14 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
+✔ I’m currently learning **MonjoDB** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
+✔ I’m looking for help for learning **Backend Development**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
 
 
-<img src="./gifs/Gear.gif" width="30px"> ***GitHub Analytics***
+<img src="./gifs/Gear.gif" width="30px">&nbsp; ***GitHub Analytics***
 
 <p align="center">
 <a href="https://github.com/RajMhatre20">
