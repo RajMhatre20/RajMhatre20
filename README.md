@@ -29,19 +29,18 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajMhatre20&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs..._**
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ Pronouns: **_He/His_** <br>
 ✔ I’m currently learning **MonjoDB** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Backend Development**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ Fun fact : _At The time of Stress coding, I use to be in half sleeping mode_<br><br><br><br>
 
-
-<img src="./gifs/Gear.gif" width="30px">&nbsp; ***GitHub Analytics***
+<img src="./gifs/Gear.gif" width="30px">&nbsp; **_GitHub Analytics_**
 
 <p align="center">
 <a href="https://github.com/RajMhatre20">
@@ -49,9 +48,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RajMhatre20&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
+<br><br>
 
+<img src="./gifs/Smiley.gif" width="30px">&nbsp; **_Here's a joke for you:_**<br>
 
-
-
- 
-
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23011627&qColor=%23C792EA&aColor=%237FDBCA&borderColor=%23FFFF" alt="Jokes Card" />
+</div>
