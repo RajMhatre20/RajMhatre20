@@ -6,7 +6,8 @@
 <h3 align="center">Developer | Student</h3>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/rajmhatre20/" target="blank"><img align="center" src="./logos/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" /></a>&nbsp; 
+<a href="https://www.linkedin.com/in/rajmhatre20/" target="blank"><img align="center" src="./logos/LinkedIn.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/Raj_Mhatre20" target="blank"><img align="center" src="./logos/Twitter.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp; 
 <a href="https://www.codechef.com/users/rajmhatre20" target="blank"><img align="center" src="./logos/Codechef.png" alt="rajmhatre20" height="30" width="30" /></a>&nbsp; 
 <a href="https://codeforces.com/profile/RajMhatre20" target="blank"><img align="center" src="./logos/Codeforces.png" alt="RajMhatre20" height="30" width="30" /></a>&nbsp; 
 </p>
@@ -25,10 +26,25 @@
     <b>excel</b> <img src="./gifs/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="./gifs/hoping.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="./gifs/hustling.gif" width="50" />
+  <img src="./gifs/hoping.gif" width="45" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="./gifs/hustling.gif" width="45" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajMhatre20&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+
+<img src="./gifs/Tools.gif" width="30px">&nbsp;&nbsp;**_Languages and Tools_**
+<br>
+<br>
+<img src="./logos/VSCode.svg" width="26px">&nbsp;&nbsp;
+<img src="./logos/HTML5.svg" width="26px">&nbsp;&nbsp;
+<img src="./logos/CSS3.svg" width="26px">&nbsp;&nbsp;
+<img src="./logos/SASS.svg" width="26px">&nbsp;&nbsp;
+<img src="./logos/C++.svg" width="26px">&nbsp;&nbsp;
+<img src="./logos/JavaScript.svg" width="26px">&nbsp;&nbsp;
+<img src="./logos/NodeJS.svg" width="26px">&nbsp;
+<img src="./logos/MongoDB.svg" width="26px">&nbsp;
+<img src="./logos/Git.svg" width="26px">&nbsp;&nbsp;
+<img src="./logos/GitHub.svg" width="26px">&nbsp;&nbsp;
+<br>
 <img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs..._**
